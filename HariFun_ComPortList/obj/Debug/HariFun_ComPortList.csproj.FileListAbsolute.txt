@@ -1,0 +1,10 @@
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\bin\Debug\HariFun_ComPortList.exe.config
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\bin\Debug\HariFun_ComPortList.exe
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\bin\Debug\HariFun_ComPortList.pdb
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\obj\Debug\HariFun_ComPortList.csprojAssemblyReference.cache
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\obj\Debug\HariFun_ComPortList.Form1.resources
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\obj\Debug\HariFun_ComPortList.Properties.Resources.resources
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\obj\Debug\HariFun_ComPortList.csproj.GenerateResource.cache
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\obj\Debug\HariFun_ComPortList.csproj.CoreCompileInputs.cache
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\obj\Debug\HariFun_ComPortList.exe
+C:\Users\hwiguna\Documents\GitHub\Hari\HariFun_ComPortList\HariFun_ComPortList\obj\Debug\HariFun_ComPortList.pdb
